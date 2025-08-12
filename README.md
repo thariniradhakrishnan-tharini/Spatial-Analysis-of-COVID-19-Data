@@ -19,10 +19,6 @@ It identifies hotspots, clusters, and patterns using geospatial data, clustering
 - State network visualization
 - Histogram distribution analysis
 
-## 📊 Sample Output
-| Bar Plot | Clustering Map | Interpolation Map |
-|----------|---------------|-------------------|
-| ![Bar Plot](screenshots/bar_plot.png) | ![Clusters](screenshots/spatial_clusters.png) | ![Interpolation](screenshots/interpolation_map.png) |
 
 ## ⚙️ Installation
 ```bash
