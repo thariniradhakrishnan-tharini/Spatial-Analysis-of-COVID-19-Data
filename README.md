@@ -1,4 +1,4 @@
-# 🦠 Spatial Data Science of COVID-19 Data
+# 🦠 Spatial Analysis of COVID-19 Data
 
 ## 📌 Overview
 This project applies **spatial data science techniques** to analyze COVID-19 data in India.  
